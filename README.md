@@ -1,2 +1,2 @@
-# Blog_kwang
-Personal blog
+# Web
+Personal blog site development
